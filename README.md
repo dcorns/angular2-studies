@@ -6,3 +6,5 @@ App configuration, @NgModule Keys (*declarations, imports, and bootstrap*), Crea
 Component Class properties and constructor. Template tags *{{}}* and binding to the class. Typing variables with typescript. Working with arrays and `*ngfor`
 
 ####Branch redditclone
+Two component application
+
